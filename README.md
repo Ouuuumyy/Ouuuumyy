@@ -1,4 +1,4 @@
-[![oukadir 42 stats](https://badge.mediaplus.ma/black/oukadir)](https://github.com/Ouuuumyy)
+[![oukadir 42 stats](https://badge.mediaplus.ma/darkblue/oukadir)](https://github.com/Ouuuumyy)
 - 👋 Hi, I’m @Ouuuumyy
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning MERN
