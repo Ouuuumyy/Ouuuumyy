@@ -1,3 +1,4 @@
+[![oukadir 42 stats](https://badge.mediaplus.ma/black/oukadir)](https://github.com/Ouuuumyy)
 - 👋 Hi, I’m @Ouuuumyy
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning MERN
@@ -5,7 +6,6 @@
 - 📫 How to reach me : kadir.oumaima2001@gmail.com
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: in my free time i sleep
- [![oukadir 42 stats](https://badge.mediaplus.ma/black/oukadir)](https://github.com/Ouuuumyy)
 
 <!---
 Ouuuumyy/Ouuuumyy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
