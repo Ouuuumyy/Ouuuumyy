@@ -1,7 +1,7 @@
 [![oukadir 42 stats](https://badge.mediaplus.ma/darkblue/oukadir)](https://github.com/Ouuuumyy)
 - 👋 Hi, I’m @Ouuuumyy
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning MERN
+- 🌱 I’m currently a software engineering student
 - 💞️ I’m looking to collaborate on web projects
 - 📫 How to reach me : kadir.oumaima2001@gmail.com
 - 😄 Pronouns: she/her
